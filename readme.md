@@ -14,4 +14,9 @@
 (3.) Save the glue job
 	  * Glue job also can be schedule to run on a fixed schedule.
 
+Main Challenging Part of the assessment
+(4.) The main challenge in all 3 task given was to combine both tables and apply the join in such a way so that we have a new table in which we will be having columns ( User_id, Partner_id, Unlock (from 'user_level_info') and their corresponding values stored of column 'utm_campaign' and 'utm_medium' in 'de_event_op' table.
+
+(5.) It was challenging becuase for applying the joins on these two tables was not simple as 'user_id' was save in a array_column 'unique_users_installed' in table 'de_event_op'.
+
 ---End---
